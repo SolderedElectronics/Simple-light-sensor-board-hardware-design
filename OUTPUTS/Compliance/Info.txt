@@ -1,5 +1,5 @@
 SKU: 333046
 Full product name: Simple light sensor board
 Country of origin: Croatia
-HS tariff code: 94054090  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388672301
